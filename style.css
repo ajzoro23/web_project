@@ -1,0 +1,41 @@
+h1{
+	color:red;
+    font-size: 75px;
+    text-align: center;
+}
+
+body{
+	background: #CCCCCC;
+    font-family: sans-serif;
+}
+
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   position: relative;
+   top: 0;
+   background-color: black;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align: center;
+	padding: 20px;
+	color: white;
+	font-size: 30px;
+}
+
+li a:hover{
+	color: gray;
+}
+
+
+img.social:hover{
+	opacity: .50;
+}
